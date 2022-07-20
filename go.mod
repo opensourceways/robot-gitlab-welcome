@@ -1,4 +1,4 @@
-module robot-gitlab-welcome
+module github.com/opensourceways/robot-gitlab-welcome
 
 go 1.16
 
